@@ -1,6 +1,36 @@
 .cuadro{
-    width: 200px;
-    height: 200px;
-    display: inline-block;
-    margin: 5px;
+    height: 80px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: transform 0.2s ease box-shadow 0.2s ease;
+}
+
+#contenedor{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: #7e1e69;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f0c1d1;
+}
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #7e1e69;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
