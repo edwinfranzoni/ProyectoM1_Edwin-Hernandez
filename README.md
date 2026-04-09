@@ -78,7 +78,7 @@ Se generan colores aleatorios utilizando JavaScript:
 
 
 
-
+liga desplegada: edwinfranzoni.github.io/ProyectoM1_Edwin-Hernandez/
 
 
 
@@ -150,5 +150,5 @@ document.getElementById("formatselect").addEventListener("change", () => {
 });
 
 
-y este me permite guardar los colores cambiando el formato sin generar otra paleta ya que fue el problema que tuve y me explicaron en sesion
+y este me permite guardar los colores cambiando el formato sin generar otra paleta ya que fue el problema que tuve y me explicaron en sesion.
 
