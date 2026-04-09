@@ -1,6 +1,7 @@
 DOCUMENTACION DEL PROYECTO 1
 
 funcionamiento de la pagina web
+
 Thats the color!
 
 Aplicación web que genera paletas de colores aleatorias de 6, 8 o 9 colores y permite visualizar cada color en distintos formatos como HEX y HSL.
