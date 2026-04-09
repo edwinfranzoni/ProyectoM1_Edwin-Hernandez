@@ -11,6 +11,7 @@ El usuario puede:
 	•	Generar combinaciones aleatorias
 	•	Cambiar el formato de visualización de los colores
 
+<img width="600" height="221" alt="Captura de pantalla 2026-04-08 a la(s) 19 37 13" src="https://github.com/user-attachments/assets/634fe3e7-e0ab-48fe-b13a-ef4dcce13b43" />
 
 
  ¿Cómo funciona?
@@ -27,7 +28,7 @@ Al hacer clic en el botón “Generate Color”, el sistema:
 
 Cada color se representa visualmente en pantalla dentro de un cuadro.
 
-<img width="500" height="200" alt="Captura de pantalla 2026-04-07 a la(s) 20 41 38" src="https://github.com/user-attachments/assets/c2287a35-847b-46b9-9645-dd0c531e93c0" />
+<img width="713" height="212" alt="Captura de pantalla 2026-04-08 a la(s) 19 40 43" src="https://github.com/user-attachments/assets/589a7a89-3ba4-41fb-86ca-d02a721d8df8" />
 
 
 Cambio de formato de color
@@ -36,7 +37,8 @@ Después de generar la paleta, el usuario puede cambiar el formato de los colore
 	•	HEX → Ejemplo: #FF5733
 	•	HSL → Ejemplo: hsl(12, 100%, 60%)
 
-![IMG_3292](https://github.com/user-attachments/assets/873fffb9-86b3-49c2-8830-b7115114f2e8)
+<img width="466" height="196" alt="Captura de pantalla 2026-04-08 a la(s) 19 33 58" src="https://github.com/user-attachments/assets/309f496f-febc-4e0c-8e6d-73e9501c5be5" />
+
 
 
 El cambio se aplica a todos los colores generados sin necesidad de crear una nueva paleta.
