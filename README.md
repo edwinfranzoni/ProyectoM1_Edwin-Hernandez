@@ -27,7 +27,7 @@ Al hacer clic en el botón “Generate Color”, el sistema:
 
 Cada color se representa visualmente en pantalla dentro de un cuadro.
 
-<img width="1421" height="570" alt="Captura de pantalla 2026-04-07 a la(s) 20 41 38" src="https://github.com/user-attachments/assets/c2287a35-847b-46b9-9645-dd0c531e93c0" />
+<img width="500" height="200" alt="Captura de pantalla 2026-04-07 a la(s) 20 41 38" src="https://github.com/user-attachments/assets/c2287a35-847b-46b9-9645-dd0c531e93c0" />
 
 
 Cambio de formato de color
@@ -35,6 +35,9 @@ Cambio de formato de color
 Después de generar la paleta, el usuario puede cambiar el formato de los colores usando el selector:
 	•	HEX → Ejemplo: #FF5733
 	•	HSL → Ejemplo: hsl(12, 100%, 60%)
+
+![IMG_3292](https://github.com/user-attachments/assets/873fffb9-86b3-49c2-8830-b7115114f2e8)
+
 
 El cambio se aplica a todos los colores generados sin necesidad de crear una nueva paleta.
 
